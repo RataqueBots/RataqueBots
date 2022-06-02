@@ -38,6 +38,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RataqueBots" />
 </p>
 
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src='https://skillicons.dev/icons?i=react,tailwind,git,nodejs,postgres,redis,nextjs,vue,js,linux,md,sass,bash,electron' />
+    </a>
+  </p>
+
+
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
