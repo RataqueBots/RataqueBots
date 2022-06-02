@@ -38,4 +38,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RataqueBots" />
 </p>
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja,+Bem-Vindo+Ao+O+Usuário+Do+RataqueBots;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
