@@ -7,7 +7,7 @@
 ### Olá! Eu sou o Rataque
 
 ## 🍱 Detalhes
-> - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
+> - 🤗 Gosto de **vivenciar** novos **aprendizados** e colaborar com **compartilhamento** de conhecimento.
 ## 🔔 Usadando
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
