@@ -7,10 +7,10 @@
 ![Postegresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ## ⚙️ Estatísticas GitHub
 - 🔭 Trabalho, atualmente, no YouTube 
-- 🌱 Estou me aprofundando em Scripts
+- 🌱 Estou me aprofundando em Script
 
 <div style="display: inline_block">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
