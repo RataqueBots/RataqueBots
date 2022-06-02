@@ -29,7 +29,7 @@
  <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div><br>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=RataqueBots&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="http://www.github.com/RataqueBots"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=RataqueBots&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 <a href="http://www.github.com/RataqueBots"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RataqueBots&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/RataqueBots"><img src="https://activity-graph.herokuapp.com/graph?username=RataqueBots&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/RataqueBots" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=RataqueBots&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
@@ -45,17 +45,21 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RataqueBots" />
 </p>
+
+###
+
+<h1 align="center">Technologies and Tools: </h1>
 
   <p align="center">
     <a href="https://skillicons.dev">
       <img src='https://skillicons.dev/icons?i=react,tailwind,git,nodejs,postgres,redis,nextjs,vue,js,linux,md,sass,bash,electron' />
     </a>
   </p>
-
-
+<hr/>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
